@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Wazowski",
   "author": "Black Rooster Pictures",
-  "website": "https://github.com/JuanBRP/HA-wake-word",
+  "website": "https://github.com/JuanBRP/ATLAS-wake-word",
   "model": "Wazowski.tflite",
   "trained_languages": [
     "en"
