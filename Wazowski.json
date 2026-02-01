@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Wasóuski",
+  "wake_word": "Wazowski",
   "author": "Black Rooster Pictures",
   "website": "https://github.com/JuanBRP/ATLAS-wake-word",
-  "model": "was_uski.tflite",
+  "model": "Wazowski.tflite",
   "trained_languages": [
     "en"
   ],
